@@ -1,0 +1,4 @@
+[submodule "cmake/pmtd_cmake"]
+	path = cmake/pmtd_cmake
+	url = git@github.com:CodeColdCook/pmtd_cmake.git
+  	branch = main

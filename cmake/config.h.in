@@ -1,0 +1,5 @@
+#pragma once
+
+#define MAP_X_PATH "@MAP_X_PATH@"
+#define MAP_Y_PATH "@MAP_Y_PATH@"
+
